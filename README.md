@@ -246,11 +246,8 @@ node server.js
 
 ##  Contributing
 
-Contributions are welcome! Here are several ways you can contribute:
+Contributions are welcomed!
 
-- **[Submit Pull Requests](https://github.com/adityaRaj369/E-Commerse-API-Full-Backend-with-Database-Integration/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/adityaRaj369/E-Commerse-API-Full-Backend-with-Database-Integration/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/adityaRaj369/E-Commerse-API-Full-Backend-with-Database-Integration/issues)**: Submit bugs found or log feature requests for E-commerse-api-full-backend-with-database-integration.
 
 <details closed>
     <summary>Contributing Guidelines</summary>
